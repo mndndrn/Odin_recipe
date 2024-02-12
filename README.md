@@ -1,2 +1,2 @@
-# Odin_recipe
+# odin-recipes
 The Odin project recipe assignment
