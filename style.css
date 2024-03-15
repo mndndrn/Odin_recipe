@@ -1,0 +1,35 @@
+* {
+    background-color: #ffdbd7;
+    font-family:  'Lucida Console', 'Courier New', 'Arial Narrow', Arial, sans-serif;  
+    color: darkgreen;
+    text-align: justify;
+}
+
+h1,
+h3,
+h4 {
+    text-align: center;
+}
+
+
+ul, 
+ol,
+p {
+    font-size: 14px;
+    width: 500px;
+}
+
+ul,
+ol,
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.info {
+    width: 300px;
+    margin: 0 auto;
+}
+
+div {
+}
